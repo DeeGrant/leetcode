@@ -1,2 +1,2 @@
-# leetcode
-[My](https://leetcode.com/Deiticus/) solutions for Leetcode problems
+# LeetCode
+[My](https://leetcode.com/DeeGrant/) solutions for Leetcode problems
